@@ -14,54 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Electromechanical Engineer | Full-Stack Developer | Technology Enthusiast
-I'm an Electromechanical Engineering graduate from Addis Ababa Science and Technology University, with a growing focus on software development, automation, and intelligent systems.
+* 🤖   Electromechanical Engineering graduate with a passion for software development and technology.
+* 💻   Currently learning Fullstack Web Development and building real-world web applications.
+* 🌱   Exploring Backend Development, Databases, JavaScript, Node.js, and modern web technologies.
+* 🧠   Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Automation.
+* ⚙️   Experienced with MATLAB/Simulink, SolidWorks, Proteus, PSIM, and other engineering tools.
+* 🚀   Building projects that combine engineering, software, automation, and intelligent systems.
+* 🎨   Passionate about creating modern, useful, and user-friendly digital experiences.
 
-I enjoy building practical solutions that connect engineering, software, automation, and real-world problems. Currently, I'm strengthening my skills in full-stack web development and software engineering while building projects that demonstrate both technical knowledge and problem-solving ability.
-
-🚀 What I'm Working On
-   🌐 Building responsive and modern web applications
-  💻 Developing full-stack applications with HTML, CSS, JavaScript, and Python
-  🐍 Strengthening my Python and object-oriented programming skills
-  📚 Continuously improving my software engineering and problem-solving skills
-  🛠️ Technologies & Tools
-
-Languages
-
-Python
-JavaScript
-HTML5
-CSS3
-
-Engineering & Technical Tools
-
-MATLAB / Simulink
-SolidWorks
-Proteus
-PSIM
-LabVIEW
-OpenCV
-
-Development Tools
-
-Git & GitHub
-VS Code
-Chrome DevTools
-
-📌 Featured Areas
-Full-Stack Web Development
-Python & Object-Oriented Programming
-Computer Vision & Machine Learning
-Automation & Control Systems
-Electromechanical Engineering
-Engineering Software & Simulation
-
-📈 Current Goal
-
-
-
-🤝 Let's Connect
-
-I'm always open to learning, collaborating, contributing to projects, and connecting with other developers and engineers.
-
-Build. Learn. Improve. Repeat.
